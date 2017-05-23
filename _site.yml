@@ -1,0 +1,8 @@
+name: "Bharath's-website"
+output_dir: "."
+navbar:
+  title: "Using Leaflet and Rmarkdown file to generate a file and host in Github"
+  left:
+    - text: "Leaflet"
+      href: mywebsite.html
+    
